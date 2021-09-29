@@ -11,13 +11,13 @@ Repo ini saya akan kongsikan beberapa penjelasan asas dan langkah-langkah untuk 
 
 ## Tentang Penulis
 
-<img src="img/profile.jpg" style="float:right; width: 200px;">
+<img align="right" width="100" height="100" src="img/profile.jpg">
 
 Kim Mohito, merupakan seorang penulis kandungan profesional (_Professinal Content-Writer_)
 
 ## Pengenalan
 
-_Cryptocurrency_, matawang-kripto atau lebih dikenali sebagai _crypto_ adalah kumpulan [data binari](binari.md) yang dihasilkan sebagai media pertukaran dimana rekod pemilikan wang individu disimpan dalam lejar pangkalan data berkomputer menggunakan kaedah kriptografi yang kuat untuk mendapatkan rekod transaksi, untung mengawal penciptaan wang tambahan, dan untuk mengesahkan pertukaran pemilikan wang.
+_Cryptocurrency_, matawang-kripto atau lebih dikenali sebagai _crypto_ adalah kumpulan [data binari](#data-binari) yang dihasilkan sebagai media pertukaran dimana rekod pemilikan wang individu disimpan dalam lejar pangkalan data berkomputer menggunakan kaedah kriptografi yang kuat untuk mendapatkan rekod transaksi, untung mengawal penciptaan wang tambahan, dan untuk mengesahkan pertukaran pemilikan wang.
 
 Some crypto schemes use validators to maintain the cryptocurrency. In a proof-of-stake model, owners put up their tokens as collateral. In return, they get authority over the token in proportion to the amount they stake. Generally, these token stakers get additional ownership in the token over time via network fees, newly minted tokens or other such reward mechanisms. Cryptocurrency does not exist in physical form (like paper money) and is typically not issued by a central authority. Cryptocurrencies typically use decentralized control as opposed to a central bank digital currency (CBDC). When a cryptocurrency is minted or created prior to issuance or issued by a single issuer, it is generally considered centralized. When implemented with decentralized control, each cryptocurrency works through distributed ledger technology, typically a blockchain, that serves as a public financial transaction database.
 
