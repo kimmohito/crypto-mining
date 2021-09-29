@@ -1,5 +1,3 @@
-<h1>mining-crypto</h1>
-
 Repo ini saya akan kongsikan beberapa penjelasan asas dan langkah-langkah untuk mining dalam bahasa melayu secara terperinci.
 
 - [Tentang Penulis](#tentang-penulis)
